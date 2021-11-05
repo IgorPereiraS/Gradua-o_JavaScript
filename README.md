@@ -1,2 +1,2 @@
-# Gradua-o_JavaScript
+# Graduacao_JavaScript
 Programas de teste de Javascript
